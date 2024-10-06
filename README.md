@@ -6,7 +6,7 @@ dashboard for Candidates from Floripa
 
 # Florianópolis Municipal Campaign Data Analysis
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/90816f86-345b-4bc7-a0bf-2deda3a73580)
 
 This project provides an interactive exploratory analysis of the 2024 municipal election campaign data in Florianópolis, Brazil. The data includes information on candidates, political parties, financial resources, and demographic characteristics. The main goal is to allow users to investigate the distribution of campaign resources, demographic representation, and financial contributions among candidates and parties.
 
