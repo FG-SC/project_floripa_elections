@@ -7,7 +7,7 @@ dashboard for Candidates from Floripa
 
 # Municipal Campaign Analysis in Florianópolis
 
-This project focuses on analyzing data from the municipal elections in Florianópolis. Using **Python**, **Pandas**, and **Plotly**, the project explores candidate demographics, financial resources, and historical candidacy patterns. The data was collected from a CNN webpage and processed through a **Jupyter Notebook** that scrapes and prepares the data in a structured format.
+This project focuses on analyzing data from the municipal elections in Florianópolis. Using **Python**, **Pandas**, and **Plotly**, the project explores candidate demographics, financial resources, and historical candidacy patterns. The data was collected from [CNN Brasil](https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-vereador-em-florianopolis/) and processed through a **Jupyter Notebook** that scrapes and prepares the data in a structured format.
 
 ![image](https://github.com/user-attachments/assets/90816f86-345b-4bc7-a0bf-2deda3a73580)
 
